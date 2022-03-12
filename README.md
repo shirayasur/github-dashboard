@@ -1,5 +1,5 @@
 # Github Repos Tracker 
- A dashboard that tracks repository metrics such as stars, watchers and contributors over time using Github API
+ A dashboard that tracks metrics of multiple repositories such as stars, watchers and contributors over time
 
 ## About
 This dashboard tracks repository metrics to compare between various open source projects using the Github API.
