@@ -1,10 +1,10 @@
 # github_dashboard
- A dashboard that tracks repository metrics using Github API
+ A dashboard that tracks repository metrics such as stars, watchers and contributors over time using Github API
 
 ## About
 This dashboard tracks repository metrics to compare between various open source projects using the Github API.
 
-It tracks number of stars and watchers, compares stars growth between various repos, as well as commits and contriubtors.
+It tracks number of stars and watchers, compares stars growth between various repos, as well as commits and contributors.
 
 Since Github does not provide historical data, this dashboard makes periodic API requests and stores data in a mySQL database. 
 
