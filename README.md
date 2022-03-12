@@ -1,4 +1,4 @@
-# github_dashboard
+# Github Repos Tracker 
  A dashboard that tracks repository metrics such as stars, watchers and contributors over time using Github API
 
 ## About
