@@ -13,7 +13,7 @@ See screenshots [here](https://github.com/shirayasur/github_dashboard/tree/main/
 ![screenshot_3](https://github.com/shirayasur/github_dashboard/blob/main/screenshots/screenshot_3.png)
 
 ## How to Use
-1. Set up a mySQL database and run `create_db.sql` into a new database
+1. Set up a mySQL database and run `create_db.sql` into a new database named 'github'
 2. Plug your mySQL connection string in `config.py` (DB_CONNECTION_STRING)
 3. Insert your Github API key in `config.py` (GH_API_TOKEN)
 4. Select the github repositories you would like to track and insert them into `config.py` (REPOS)
