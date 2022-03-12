@@ -85,9 +85,6 @@ app.layout = html.Div([
 ])
 #close app_layout
 
-    
-def get_dbConnection():
-    return sqlEngine.connect()
 
 
 #Interval Callbacks
